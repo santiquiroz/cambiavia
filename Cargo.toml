@@ -1,0 +1,8 @@
+[workspace]
+resolver = "2"
+members = ["crates/cambiavia-core"]
+
+[workspace.package]
+edition = "2021"
+rust-version = "1.97"
+license = "AGPL-3.0-only"
